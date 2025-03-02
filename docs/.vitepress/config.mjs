@@ -31,7 +31,7 @@ export default defineConfig({
     ],
 
     socialLinks: [
-      { icon: 'github', link: 'https://github.com/sounddrill31/Pixelpulse2' },
+      { icon: 'github', link: 'https://github.com/pkgforge-dev/Pixelpulse2-AppImage' },
     ]
   }
 })
