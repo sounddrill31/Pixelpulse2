@@ -45,7 +45,7 @@ features:
 
 > [!TIP]
 > I maintain the SoarPkgs entry for Pixelpulse2!
-> This means that running Pixelpulse2 will be a breeze for linux users. See [SBUILD configuration](https://github.com/pkgforge/soarpkgs/blob/main/packages/pixelpulse2/appimage.sounddrill31.stable.yaml) and [SoarPkgs page](https://pkgs.pkgforge.dev/repo/soarpkgs/sounddrill31-pixelpulse2/pixelpulse2/pixelpulse2/)
+> This means that running Pixelpulse2 will be a breeze for linux users. See [SBUILD configuration](https://github.com/pkgforge/soarpkgs/blob/main/packages/pixelpulse2/appimage.pkgforge-dev.stable.yaml) and [SoarPkgs](https://pkgs.pkgforge.dev/repo/soarpkgs/dev-pixelpulse2/pixelpulse2/pixelpulse2/) page
 
 #### Automatic Method 😎
 - [Install Soar](https://soar.qaidvoid.dev/installation)
@@ -53,6 +53,7 @@ features:
   wget -qO- https://soar.qaidvoid.dev/install.sh | sh
   ```
   or
+
   ```bash
   curl -fsSL https://soar.qaidvoid.dev/install.sh | sh
   ```
@@ -62,7 +63,7 @@ features:
     ```
 > [!WARNING]
 > Remember to connect your Adalm1000 Board only after the app opens for the first time and udev rules are installed.
-  - Install the App
+  - Install the App(Optional)
     ```bash
     soar install pixelpulse2
     ```
