@@ -34,7 +34,7 @@ features:
 - [@Samueru-sama](https://github.com/samueru-sama) for porting my LinuxDeployQt AppImage to sharun, helping me with udev shenanigans and ensuring Qt worked
 - [@QaidVoid](https://github.com/QaidVoid) for SoarPkgs and Soar
 - [@Azathothas](https://github.com/Azathothas) for onboarding me as a maintainer onto SoarPkgs and helping me where I got stuck
-- [@VHSgunzo](https://vhsgunzo.github.io/) for [sharun](https://github.com/VHSgunzo/sharun) and more
+- [@VHSgunzo](https://vhsgunzo.github.io/) for [sharun](https://github.com/VHSgunzo/sharun), Uruntime, and more
 - [Me](https://sounddrill31.github.io/) for initial x86_64 build using LinuxDeploy and eventual aarch64 port
 - [AppImage](https://github.com/AppImage) and [contributors](https://github.com/AppImage/appimagetool/graphs/contributors) for [appimagetool](https://github.com/AppImage/appimagetool) and work on the AppImage format
 - [@ivan-hc](https://github.com/ivan-hc) for [AM](https://github.com/ivan-hc/AM)
