@@ -32,7 +32,7 @@ features:
 ### Credits and Greetings
 - [Analog Devices Inc](https://www.analog.com) for [Software](https://github.com/analogdevicesinc/pixelpulse2) and [Board](https://www.analog.com/en/resources/evaluation-hardware-and-software/evaluation-boards-kits/adalm1000.html)
 - [@Samueru-sama](https://github.com/samueru-sama) for porting my LinuxDeployQt AppImage to sharun, helping me with udev shenanigans and ensuring Qt worked
-- [QaidVoid](https://github.com/QaidVoid) for SoarPkgs and Soar
+- [@QaidVoid](https://github.com/QaidVoid) for SoarPkgs and Soar
 - [@Azathothas](https://github.com/Azathothas) for onboarding me as a maintainer onto SoarPkgs and helping me where I got stuck
 - [@VHSgunzo](https://vhsgunzo.github.io/) for [sharun](https://github.com/VHSgunzo/sharun) and more
 - [Me](https://sounddrill31.github.io/) for initial x86_64 build using LinuxDeploy and eventual aarch64 port
@@ -40,7 +40,7 @@ features:
 - [@ivan-hc](https://github.com/ivan-hc) for [AM](https://github.com/ivan-hc/AM)
 - [@TheAssassin](https://assassinate-you.net) for [linuxdeploy](https://github.com/linuxdeploy/linuxdeploy)
 - [@probonopd](https://github.com/probonopd) for [linuxdeployqt](https://github.com/probonopd/linuxdeployqt)
-
+- And many, many more people!
 ### Setup Instructions
 
 > [!TIP]
